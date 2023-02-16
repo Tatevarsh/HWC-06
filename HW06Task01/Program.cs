@@ -21,6 +21,4 @@ int count = 0;
         }
     }
  
-
-
 Console.WriteLine(count);

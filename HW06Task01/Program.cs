@@ -21,17 +21,4 @@ int count = 0;
         }
     }
  
-
-
 Console.WriteLine(count);
-
-// int sum = 0;
-// for (int i = 0; i < sum.Length; i++)
-// {
-//     if (sum[i] > 0)
-//     {
-//         sum++;
-//     }
-// }
-// Console.WriteLine();
-// Console.WriteLine($"количество значений больше 0 = {sum}");
